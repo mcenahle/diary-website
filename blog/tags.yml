@@ -1,24 +1,10 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
-
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
-
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
-
 site-development:
   label: site-development
   permalink: /site-development
-  description: site development posts
+  description: 关于站点建设的博客文章
+
+
+life:
+  label: life
+  permalink: /life
+  description: 关于生活的文章
