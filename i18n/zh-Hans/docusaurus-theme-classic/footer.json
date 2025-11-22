@@ -20,7 +20,7 @@
     "description": "The label of footer link with label=GitHub linking to https://github.com/facebook/docusaurus"
   },
   "copyright": {
-    "message": "Copyright © 2025 Mcenahle. Built with Docusaurus. <p>备案信息：<a href=\"https://beian.miit.gov.cn/\" target=\"_blank\">沪ICP备2025116360号-1</a> | <a href=\"https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31015102000182\" target=\"_blank\">沪公网安备31015102000182号</a></p>",
+    "message": "Copyright © 2025 Mcenahle。网站以 Docusaurus 构建。<p>备案信息：<a href=\"https://beian.miit.gov.cn/\" target=\"_blank\">沪ICP备2025116360号-1</a> | <a href=\"https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31015102000182\" target=\"_blank\">沪公网安备31015102000182号</a></p>",
     "description": "The footer copyright"
   }
 }
