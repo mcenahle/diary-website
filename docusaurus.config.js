@@ -10,7 +10,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '个人日记本',
+  title: '在线日记本',
   tagline: '我的在线日记本网站。',
   favicon: 'img/favicon.ico',
 
@@ -83,7 +83,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'diary.mcenahle.org.cn',
+        title: '在线日记本',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
